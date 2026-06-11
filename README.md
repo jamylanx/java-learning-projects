@@ -1,6 +1,6 @@
 ## Hello!
 
-![Screenshot](https://cdn.harlemworldmagazine.com/wp-content/uploads/2023/11/Java-19-comes-with-an-open-source-twist-All-you-need-to-know.jpg)
+<img src="https://cdn.harlemworldmagazine.com/wp-content/uploads/2023/11/Java-19-comes-with-an-open-source-twist-All-you-need-to-know.jpg" width="400" height="500">
 
 These are some of the Java programming exercises and projects I worked on back when I was a Computer Science freshman.
 
